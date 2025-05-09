@@ -53,7 +53,7 @@ The application will be available at http://localhost:3000 (or the default port 
 
 ---
 ### **Live Demo**
-You can view the live demo of the project here  
+You can view the live demo of the project here https://santhossiva2002.github.io/Softsell/
 
 ---
 ### **Project Overview**
