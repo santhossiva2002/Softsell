@@ -22,7 +22,7 @@
 - **React.js**: JavaScript library for building the user interface, ensuring a dynamic and responsive experience.
 - **Vite**: Fast build tool for modern web projects, providing a fast development environment and optimized production builds.
 - **Tailwind CSS**: Utility-first CSS framework used for styling, enabling rapid prototyping and clean design.
-- **Netlify**: Hosting service used for deploying the website, ensuring fast, secure, and reliable delivery.
+- **GitHub Pages**: Hosting service used for deploying the website, ensuring fast, secure, and reliable delivery.
 
 ---
 ### **How to Run Locally**
